@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Quora Answers site
 
-You can use the [editor on GitHub](https://github.com/NetworkerBot/networkerbot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Millions of users update their questions and another million users answer these. This site consist of as subset of answers to the questions answered by myself. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Motivation
 
-### Markdown
+Content creation has become very easy, making it visible is becoming tougher day by day. There are content organisers which have social network aspect, giving them an edge in attracting top content writers and readers. Algorithms are becoming sophisticated to the user's activity, and profiles them. What if tomorrow 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- This content organiser is shutdown
+- Changes its policies and practices
+- Taken over by someone who runs it differently
 
-```markdown
-Syntax highlighted code block
+As I started this project, there was such a takedown of a very renowned social networking site. Being held hostage by a platform is detrimental to creativity. And losing your contents created over years, by spending time is like losing hard earned money. Time spent is more costlier to buy later.
 
-# Header 1
-## Header 2
-### Header 3
+### What to expect?
 
-- Bulleted
-- List
+Questions and Answers to those questions. The questions were asked by Quora users and the answers where created by me over years. I had collected those answers and made a automated website hosted by Github. Like the saying goes, putting my eggs in multiple baskets.  
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NetworkerBot/networkerbot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
