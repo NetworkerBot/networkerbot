@@ -14,5 +14,5 @@ As I started this project, there was such a takedown of a very renowned social n
 
 ### What to expect?
 
-Questions and Answers to those questions. The questions were asked by Quora users and the answers where created by me over years. I had collected those answers and made a automated website hosted by Github. Like the saying goes, putting my eggs in multiple baskets.  
+Questions and Answers to those questions. The questions were asked by Quora users and the answers where created by me over years. I had collected those answers and made a automated website hosted by Github. Like the saying goes, putting my eggs in multiple baskets. Without any more rambling lets head to [Contents](https://networkerbot.github.io/networkerbot/contents) that you might find interesting and engaging.
 
